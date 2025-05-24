@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Manuela Cuéllar M\Documents\GitHub\PRE-08-mlflow-tracking-local-Macuellarmo\my_mlruns/297215195800324234/1c89571d6b7c4a958219144d4aba775e/artifacts
+end_time: 1748100433821
+entry_point_name: ''
+experiment_id: '297215195800324234'
+lifecycle_stage: active
+run_id: 1c89571d6b7c4a958219144d4aba775e
+run_name: elasticnet_02e768d8
+run_uuid: 1c89571d6b7c4a958219144d4aba775e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100433450
+status: 3
+tags: []
+user_id: Manuela Cuéllar M

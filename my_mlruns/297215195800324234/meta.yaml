@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\Manuela Cuéllar M\Documents\GitHub\PRE-08-mlflow-tracking-local-Macuellarmo\my_mlruns/297215195800324234
+creation_time: 1748100339072
+experiment_id: '297215195800324234'
+last_update_time: 1748100339072
+lifecycle_stage: active
+name: wine_quality_experiment
